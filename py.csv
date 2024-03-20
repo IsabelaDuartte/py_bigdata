@@ -1,12 +1,3 @@
-;;http://www.bdg.ibge.gov.br/bdg/pdf/relatorio.asp?L1=;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
 RN;SAT;Regiao;Estado;Latitude;Longitude;Alt.Orto. (H);Alt.Geom. (h);Ondulacao (N) Conexao *;Ondulacao (N) MAPGEO2015 **;Discrepancias dif.Conexao_X_MAPGEO2015;Link do SAT no Banco de Dados
 1190A;91327;CENTRO-OESTE;DISTRITO FEDERAL;-15,9788127;-47,8195672;1059,4979;1046,867;-12,63;-12,57;-0,06;http://www.bdg.ibge.gov.br/bdg/pdf/relatorio.asp?L1=91327
 1190C;91329;CENTRO-OESTE;DISTRITO FEDERAL;-16,0197671;-47,8008205;882,4898;869,761;-12,73;-12,59;-0,14;http://www.bdg.ibge.gov.br/bdg/pdf/relatorio.asp?L1=91329
